@@ -71,9 +71,10 @@
 
 ### 🏆 Achievements
 
+- 👨‍💻 Solved 350+ DSA problems on LeetCode and other platforms
 - 🥉 3rd Place – Run Code Run (Coding Contest)
 - 🥉 3rd Place – Debate Competition
-- 👨‍💻 Solved 350+ DSA problems on LeetCode and other platforms
+
 
 ---
 
@@ -99,8 +100,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: krmanishydvmth@gmail.com  
-- 🌐 Portfolio: [ECOVA Site](https://ecova.vercel.app/)  
+- 📧 Email: krmanishydvmth@gmail.com   
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/kumar-manish-b325bb252/)  
 - 💻 [GitHub](https://github.com/krmanishh)  
 - 💡 [LeetCode](https://leetcode.com/u/manishhhhh/)
