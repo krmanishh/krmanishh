@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Pre-final year B.Tech student at **IIIT Una**, ECE branch  
-- 🔭 Interned at **CSIR-CSIO**, developed real-world **Bio-Medical web apps** using **React**, **Next.js**, and **Node.js**
+- 🔭 Interned at **CSIR-CSIO**, developed real-world **Bio-Medical web apps** using **React** and **Node.js**
 - 🌱 Currently learning **Next.js**, **Firebase**, and **Security in Full Stack**
 - 💡 Built scalable and secure platforms for clubs & organizations with **Role-Based Auth**, **Clerk**, and **Cloudinary**
 - 📚 Solved 350+ DSA problems on LeetCode and other platforms
