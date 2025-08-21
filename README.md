@@ -57,6 +57,9 @@
 - 🔗 **[Social Platform](https://rss-react-anshs-projects-8a0075b6.vercel.app/)**  
   Firebase-based real-time updates, secure uploads via Cloudinary, and secure back-end with Express.js
 
+  - 🔗 **[Maternal Healthcare Tracker](https://github.com/krmanishh/Maternal-Healthcare-Tracker)**  
+  Full-stack maternal health management system with patient registration, secure authentication, user-specific dashboards (admin, doctor, patient), and responsive UI using PHP, MySQL, and Bootstrap. Backend authentication and data handling separated from frontend forms for clean architecture.
+
 ---
 
 ### 💼 Internship
