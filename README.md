@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Pre-final year B.Tech student at **IIIT Una**, ECE branch  
+- 🎓 Final year B.Tech student at **IIIT Una**, ECE branch, but has a strong interest in CSE and related technologies.
 - 🔭 Interned at **CSIR-CSIO**, developed real-world **Bio-Medical web apps** using **React** and **Node.js**
 - 🌱 Expertise in **Node.js**, **Firebase**, and **Security in Full Stack**
 - 💡 Built scalable and secure platforms for clubs & organizations with **Role-Based Auth**, **Clerk**, and **Cloudinary**
