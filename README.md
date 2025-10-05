@@ -15,7 +15,7 @@
 - 🔭 Interned at **CSIR-CSIO**, developed real-world **Bio-Medical web apps** using **React** and **Node.js**
 - 🌱 Expertise in **Node.js**, **Firebase**, and **Security in Full Stack**
 - 💡 Built scalable and secure platforms for clubs & organizations with **Role-Based Auth**, **Clerk**, and **Cloudinary**
-- 📚 Solved 350+ DSA problems on LeetCode and other platforms
+- 📚 Solved 600+ DSA problems on LeetCode and other platforms
 
 ---
 
